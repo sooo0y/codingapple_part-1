@@ -1,1 +1,1 @@
-# sooo0y.github.io
+# 코딩애플 part1. 블로그 제작 & 기초 문법
